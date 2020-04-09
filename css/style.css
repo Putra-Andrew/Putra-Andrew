@@ -1,0 +1,191 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f7fa;
+    padding: 20px;
+    font-family: Montserrat;
+}
+
+.aside {
+    width: 370px;
+    background-color: #1e2939;
+
+}
+
+
+.my-container {
+    display: flex;
+}
+
+.img {
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.container {
+    background-color: #fff;
+    padding: 90px 110px 90px 110px;
+}
+
+.Contacts {
+    margin: 55px 40px;
+}
+
+.h33 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.aa {
+    color: #434c5a;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.caa {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 10px;
+}
+
+.h3Tech-Skills {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.Tech-Skills {
+    margin: 40px 40px 55px;
+}
+
+.li-tech {
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 12px;
+    margin: 15px;
+}
+
+.span-tech {
+    color: #d9dbde;
+}
+
+.profeehion {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+
+.name {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+
+.deskripheon {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 63px;
+
+}
+
+.contakt {
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 24px;
+    margin-bottom: 10px;
+    margin-left: 4px;
+}
+
+.https {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.cont-class {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.dots {
+    color: #bebebe;
+}
+
+.ol-cont {
+    margin-left: 12px;
+}
+
+.li-content {
+    margin-left: 18px;
+}
+
+.Projects {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 17px;
+}
+
+.Front-End {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 14px;
+}
+
+.Freelance {
+    color: #ff6b08;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.mone {
+    margin-bottom: 24px;
+}
+
+.October {
+    margin-bottom: 31px;
+}
+
+
+.gbh {
+    margin-bottom: 55px;
+}
+
+.ed {
+    margin-bottom: 21px;
+}
+
+.kh {
+    margin-bottom: 15px;
+}
+
+.ma {
+    margin-bottom: 14px;
+}
+
+.se {
+    color: #a8a8a8;
+}
